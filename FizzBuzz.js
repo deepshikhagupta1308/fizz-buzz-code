@@ -2,9 +2,9 @@
 //Algorithm
 //step1: Start 
 //step2: Take input as n
-//step3: Iterate the number from 1 to n
+//step3: Iterate the loop from 1 to n
 //step4: In if statement check number is divisible by 3 and 5 then print FizzBuzz 
-//step5: In else if statement check number is divisible by 3 then print Fizz
+//step5: In else if statement check number is divisible by 3 then print Fizz 
 //step6: In else if statement check number is divisible by 5 then print Buzz
 //step7: If all the above conditions are false then goes to else case and print number as it is.
 //step8: Stop
